@@ -1,0 +1,15 @@
+portfolio/
+│
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── About.js
+│   │   ├── Projects.js
+│   │   ├── Footer.js
+│   │   └── ProjectCard.js
+│   ├── assets/
+│   │   ├── profile.jpg
+│   │   └── ...
+│   ├── App.js
+│   ├── index.css
+└── package.json
